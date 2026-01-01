@@ -1,8 +1,3 @@
-"""
-Customer Backend Module
-Implements the Customer class for the Online Banking System.
-"""
-
 class Customer:
     """
     Represents a bank customer with personal details and linked accounts.
